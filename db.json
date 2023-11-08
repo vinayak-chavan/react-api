@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Vinayak Chavan",
+      "email": "vinayak@yopmail.com",
+      "phone": "7383692583",
+      "id": 1
+    },
+    {
+      "name": "Pradip Prajapati",
+      "email": "pradip@yopmail.com",
+      "phone": "7890123412",
+      "id": 2
+    },
+    {
+      "name": "fsdf",
+      "email": "as@gmail.com",
+      "phone": "11",
+      "id": 3
+    },
+    {
+      "name": "wdf",
+      "email": "d@kjsdhwf.dlf",
+      "phone": "wfwf",
+      "id": 4
+    },
+    {
+      "name": "wf",
+      "email": "fdsaf@sbadf.kdhf",
+      "phone": "qwdqd",
+      "id": 5
+    }
+  ]
+}
